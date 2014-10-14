@@ -5,12 +5,12 @@
   "AppIdentifier": "com.telerik.MobileAppQuickstart1b",
   "DisplayName": "Mobile App Quickstart 1b",
   "Author": "",
-  "Description": "",
+  "Description": "Mobile App Quickstart 1b",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
     "1",
-	"2"
+    "2"
   ],
   "iOSBackgroundMode": [],
   "WP8TileTitle": "",
